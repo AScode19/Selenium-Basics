@@ -2,11 +2,11 @@
 
 I automated the login process for OrangeHRM, a demo HR management website, using Selenium with Python.
 
-What I did:
+**What I did:**
 
 Opened the OrangeHRM website automatically.
 
-Located the username and password input fields using Selenium locators (By.NAME).
+Located the username and password input fields using Selenium locators **(By.NAME)**.
 
 Entered valid credentials (Admin / admin123).
 
